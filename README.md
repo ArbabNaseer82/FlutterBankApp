@@ -20,11 +20,11 @@ FlutterBankApp is a fully responsive and comprehensive bank application frontend
 
 # Screenshots
 
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/28622005-2231-4849-ae51-e0f92bb476f4" width="250"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/81a2d72c-feae-4300-810c-ae0fe8dd32bd" width="250"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/41147367-ed29-4102-a6dc-e9f2736910fa" width="250"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/d9471122-1024-4775-8b03-6753019134e2" width="250"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b85f2497-cf98-4627-a36e-fe9d24efec6f" width="250"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/28622005-2231-4849-ae51-e0f92bb476f4" width="300"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/81a2d72c-feae-4300-810c-ae0fe8dd32bd" width="300"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/41147367-ed29-4102-a6dc-e9f2736910fa" width="300"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/d9471122-1024-4775-8b03-6753019134e2" width="300"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b85f2497-cf98-4627-a36e-fe9d24efec6f" width="300"/>
 
 
 
@@ -80,3 +80,25 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 # License:
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+![Screenshot_20240629_180642](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/7b33d534-7ab0-4da7-9c86-66c7ed2a7213)
+![Screenshot_20240629_180652](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e614df16-a9de-4d72-b1a4-41adcd5a0110)
+![Screenshot_20240629_175939](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/412b3fe1-463c-46c7-a69b-d322abb77490)
+![Screenshot_20240629_180837](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/82e0e928-2872-402d-9206-fc7df409774f)
+![Screenshot_20240629_175851](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/43137950-f14c-4ed3-92cf-4208d6b28a24)
+![Screenshot_20240629_180612](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/24a8ea05-8a72-456d-a6f8-85a50876b15a)
+![Screenshot_20240629_180607](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/4e1dc67c-4f02-474e-996f-cf02dd253b3e)
+![Screenshot_20240629_180113](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/c0b7696b-ce77-48af-9f82-819edb9bb4d7)
+![Screenshot_20240629_180722](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/0e0558bb-102f-4871-9924-8907091edaa1)
+![Screenshot_20240629_180537](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/faac6244-336f-4532-b40c-609334e6ed79)
+![Screenshot_20240629_175822](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/9cc00ef4-e3d2-477a-aefc-bd6052be316f)
+![Screenshot_20240629_180910](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/9cbd5b84-8106-4661-aced-32ad5b85df98)
+![Screenshot_20240629_180833](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/33ef81fb-e2ea-42b7-9ab8-5c98a41371cc)
+![Screenshot_20240629_180629](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/3667b5b7-32bf-4a61-be7b-16e98b1623fe)
+![Screenshot_20240629_180034](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/6ace3e73-c682-4b67-ae63-3b294d35a8e3)
+![Screenshot_20240629_175954](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/81436169-3158-4c57-b55f-6825c4565d98)
+![Screenshot_20240629_190218](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/76e30fc7-327d-483b-a480-d3cff72a28f2)
+![Screenshot_20240629_180601](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/37fd12da-f171-4b2b-864d-bf5a2b82c3eb)
+![Screenshot_20240629_190209](https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/05ce6de2-ca78-4973-acdc-8f3021dad60a)
+
