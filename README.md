@@ -20,26 +20,26 @@ FlutterBankApp is a fully responsive and comprehensive bank application frontend
 
 # Screenshots
 
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/28622005-2231-4849-ae51-e0f92bb476f4" width="300"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/81a2d72c-feae-4300-810c-ae0fe8dd32bd" width="300"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/41147367-ed29-4102-a6dc-e9f2736910fa" width="300"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/d9471122-1024-4775-8b03-6753019134e2" width="300"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b85f2497-cf98-4627-a36e-fe9d24efec6f" width="300"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/28622005-2231-4849-ae51-e0f92bb476f4" width="250"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/81a2d72c-feae-4300-810c-ae0fe8dd32bd" width="250"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/41147367-ed29-4102-a6dc-e9f2736910fa" width="250"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/d9471122-1024-4775-8b03-6753019134e2" width="250"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b85f2497-cf98-4627-a36e-fe9d24efec6f" width="250"/>
 
 
 
 ## IOS Screenshots
 
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/047683af-7c12-48b9-8c9d-7931580c66b4" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/4860bd37-4a21-4db8-99e4-77c0f3c9a3c9" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e25fdba3-518a-4186-aee6-f1c042366085" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/a9b7ef99-ef86-4d71-84ce-bd57ae04dd8c" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/8894a002-78b2-4d28-86fd-901152e5c861" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/db64e298-1f38-4333-bf6c-dc7af9e83a9a" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/9c065e96-2fad-4d9f-820b-0b2b49598294" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e8ee28db-00cb-4c0b-848f-705d20289194" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/7908db1d-7254-41a6-a0cd-acb1475df23f" width="150"/>
-<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b65d5cb5-16bb-439f-b9d8-7e9c571dbea7" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/047683af-7c12-48b9-8c9d-7931580c66b4" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/4860bd37-4a21-4db8-99e4-77c0f3c9a3c9" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e25fdba3-518a-4186-aee6-f1c042366085" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/a9b7ef99-ef86-4d71-84ce-bd57ae04dd8c" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/8894a002-78b2-4d28-86fd-901152e5c861" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/db64e298-1f38-4333-bf6c-dc7af9e83a9a" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/9c065e96-2fad-4d9f-820b-0b2b49598294" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e8ee28db-00cb-4c0b-848f-705d20289194" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/7908db1d-7254-41a6-a0cd-acb1475df23f" width="170"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b65d5cb5-16bb-439f-b9d8-7e9c571dbea7" width="170"/>
 
 ## Android Screenshots
 
