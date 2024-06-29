@@ -28,6 +28,37 @@ FlutterBankApp is a fully responsive and comprehensive bank application frontend
 
 
 
+## IOS Screenshots
+
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/047683af-7c12-48b9-8c9d-7931580c66b4" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/4860bd37-4a21-4db8-99e4-77c0f3c9a3c9" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e25fdba3-518a-4186-aee6-f1c042366085" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/a9b7ef99-ef86-4d71-84ce-bd57ae04dd8c" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/8894a002-78b2-4d28-86fd-901152e5c861" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/db64e298-1f38-4333-bf6c-dc7af9e83a9a" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/9c065e96-2fad-4d9f-820b-0b2b49598294" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e8ee28db-00cb-4c0b-848f-705d20289194" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/7908db1d-7254-41a6-a0cd-acb1475df23f" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/b65d5cb5-16bb-439f-b9d8-7e9c571dbea7" width="150"/>
+
+## Android Screenshots
+
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/4b63a9a7-6ace-4dbc-abe1-c46aa9ebaf36" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/748157d7-49ef-447b-87ef-9f632aa603c3" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/cab6b840-f926-445b-ab07-4f20e81150da" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/39b3df54-0ddb-4be6-a112-61a4f5c6c7c3" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/42f4aafc-fc17-4bd5-8ba5-43bfd58f71ea" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/6abb4319-ea5c-47c2-a94d-e08d37a12d46" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/e3047f0e-7b6c-4c0c-9785-c69f8f1f06e7" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/bb95b71e-3208-4e9d-8d57-ed441e69ab9f" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/89b344c3-d12d-43e9-8eb6-49d44ddc2b26" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/6db6919f-99f6-4b20-9158-f265b4d3e026" width="150"/>
+<img src="https://github.com/ArbabNaseer82/FlutterBankApp/assets/160100829/f3bbc6f3-5d41-4101-9152-e57e8d5ca0b6" width="150"/>
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
